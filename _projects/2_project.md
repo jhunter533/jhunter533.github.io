@@ -1,18 +1,25 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: PID
+description: PID:Control Theory
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+What is PID?
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+PID is an acronym for Proportional Integral Derivative. A key algorithm in control theory. A PID allows you slow an approach to reach a target. This algorithm has wide uses from robotics to thermostats.
+
+You can think of a PID as representing the error between the start position and the target. By breaking this total into smaller parts following calculus principles you can gain the derivative and integral. This algorithm is highly customizable allowing fine tuning for unique problems and solutions.
+
+For instance in my use I used PID throughout my robotics experience to increase the accuracy of approaching a target position or angle. With my implementation the robot error approaches 0 then begins to use the integral values to push it that last leg of the approach.
+
+This algorithm can be done with several sensors depending on use. For my use I used the Vex v5 inertial sensor. It was used to reliably turn to face an absolute angle in refernence to the starting angle being 0 (though this can easily be adjusted). My implementation allowed the robot to slow down as it approached a target and turn back if the angle is overshot and parameters are tuned correctly.
+
+*insert code* 
+
 
     ---
     layout: page
