@@ -1,12 +1,22 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Odometry
+description: Control Theory the next step
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: Personal
 ---
+What is Odometry?
+
+Odometry is the process of tracking location along a path. Unlike path planning algorithms which determine how you move from A to B, odometry on the other hand is the algorithm underlying path planning to determine global locations. This is done through a given starting location, coordinate axis, and the slow accumalation of change in position data.
+
+Odometry uses the fundamental thereom of calculus to say if you know the change in position and the starting position we can find the final position. 
+
+This algorithm relies heavily on accurate sensors for tracking position data. Newer implementation schemes use 3d cameras, lidar, and other sensors to create SLAM. However my implementation relies on older simpler techniques using the Vex V5 system. 
+
+My robot is a 4 wheeled tank drive design that incorporates two perpendicular dead wheels and an IMU in the center. A key to any odometry system is understanding the kinematics of what your tracking. For instance a car with ackerman steering operates very differently to a tank drive vehicle resulting in very different kinematics for their motion.
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
