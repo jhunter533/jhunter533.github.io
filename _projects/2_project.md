@@ -343,4 +343,12 @@ void PID::driveToP(Odometry &Odom,double xTarget, double yTarget, double alpha,d
 }
 ```
 The code above depicts this refactor and expansion in Vex CPP.
-
+Here is an example of the turn PID running.
+<div class="row mt-3">
+    <div class="col-12">
+        <video class="img-fluid rounded z-depth-1" controls>
+            <source src="{{ 'assets/video/IMG_9089.mp4' | relative_url }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>

@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jhunter533
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jhunter533/odometry
+  - jhunter533/PID
+  - jhunter533/nasa-webscrape
+  - jhunter533/Astar

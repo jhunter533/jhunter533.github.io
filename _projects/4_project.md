@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Machine Learning
-description: The Basics: Supervised
+description: The Basics of Supervised
 img:
-importance: 3
+importance: 4
 category: Personal
 ---
 I began to dive into the realm of machine learning. As with any beginner area project I started with simple benchmarking level projects. This primarily included MNIST and EMNIST. 
