@@ -63,7 +63,6 @@
   "education": [
     {
       "institution": "New Mexico Institute of Mining and Technology",
-      "location": "",
       "url": "",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
@@ -124,16 +123,12 @@
       "name": "Control/Estimation Theory",
       "summary": "Conducted research on the types of feedback controllers and their applications. Developed and implemented several PID controllers, odometry, and Kalman filters for Vex V5 systems.",
       "highlights": [],
-      "startDate": "",
-      "endDate": "",
       "url": ""
     },
     {
       "name": "Robotics",
       "summary": "Collaborated with a small team to design and build unique robots each year to tackle the season’s challenges as the programmer and team lead for a Vex VRC team, culminating in the winning of several awards. Contributed as a programmer to the NMT Lunabotics team working towards the enhancement of lunar-based robotics.",
       "highlights": [],
-      "startDate": "",
-      "endDate": "",
       "url": ""
     }
   ]
