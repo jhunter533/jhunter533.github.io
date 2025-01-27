@@ -6,7 +6,7 @@
     "email": "jhunter533@gmail.com",
     "phone": "",
     "url": "https://jhunter533.github.io",
-    "summary": "A driven computer science student with hands-on experience in several engineering areas. Passionate about integrating programs to real world problems.",
+    "summary": "A driven computer science student with an interest in algorithms and desire to learn other key areas. Passionate about integrating programs to real world problems.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,7 +29,7 @@
       "url": "",
       "startDate": "2024-04-01",
       "endDate": "Present",
-      "summary": "Led the computer science component for research in neuromorphic computational architectures, focusing on the study and advancement of neural networks and their applications in robotics.",
+      "summary": "Led the computer science component for research in neuromorphic computational architectures, focusing on the study and advancement of neural networks and their applications in robotics using reinforcement learning.",
       "highlights": []
     },
     {
@@ -68,7 +68,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "",
       "endDate": "2027-05-01",
-      "score": "3.90",
+      "score": "3.81",
       "courses": []
     }
   ], 

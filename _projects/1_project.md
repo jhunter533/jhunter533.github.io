@@ -3,7 +3,7 @@ layout: page
 title: SQL/SSRS
 description: Database Work
 img: 
-importance: 1
+importance: 2
 category: Work
 related_publications: false
 ---
