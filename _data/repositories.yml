@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - jhunter533/NMT-Schedule-Maker
+  - jhunter533/SANSAC
   - jhunter533/odometry
   - jhunter533/PID
   - jhunter533/nasa-webscrape
